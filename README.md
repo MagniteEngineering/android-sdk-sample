@@ -1,0 +1,1 @@
+Magnite and the Magnite logo are trademarks of Magnite, Inc. Use of these marks is subject to Magnite’s trademark policy. The usage of the product is governed under Magnite Source‑Available License (Polyform‑style, Licensed Users Only) detailed in LICENSE.md.txt
