@@ -36,5 +36,6 @@ you must cease use and destroy copies.
 ## 10. Compliance; Export
 You must comply with applicable laws, including export controls and sanctions.
 ## 11. Governing Law; Venue
-As set forth in your agreement with Magnite; if none, {GOVERNING JURISDICTION} and venue in {VENUE}.
+As set forth in your agreement with Magnite; if none, California as Governing jurisdiction, and Los Angeles, CA as Venue. 
+
 For licensing questions, contact: legal@magnite.com
